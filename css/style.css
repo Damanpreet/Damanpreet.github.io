@@ -151,6 +151,17 @@ figure {
       text-align: center;
       color: #000;
       padding-right: .3em;}
+  
+  #colorlib-logo1 a {
+      font-weight: 700;
+      font-size: 30px;
+      margin-bottom: .5em;
+      display: block;
+      width: 100%;
+      text-align: center;
+      color: #000;
+      padding-right: .3em;}
+      
   #colorlib-aside #colorlib-main-menu {
     display: block;
     width: 100%; }
